@@ -65,7 +65,7 @@ public class Index extends Vector<Entry> {
 	public String toString() {
 		String sortie="";
 		for (Entry i : this) {
-			sortie+=i.getMot() + "\n";
+			sortie+=i.toString() + "\n";
 		}
 		return sortie;
 	}

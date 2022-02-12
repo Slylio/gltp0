@@ -38,7 +38,7 @@ public class SortedListOfInteger extends Vector<Integer> {
 		String sortie="";
 		for(int i=0; i<this.elementCount;i++){
 			if(sortie.compareTo("")!=0){
-				sortie+=" , ";
+				sortie+=", ";
 			}
 			sortie+=this.get(i);
 		}

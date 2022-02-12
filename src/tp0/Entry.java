@@ -34,7 +34,7 @@ public class Entry  {
 	 * Representation en string.
 	 */
 	public String toString() {
-		return mot;
+		return mot +" " +pages;
 	}
 
 	/**

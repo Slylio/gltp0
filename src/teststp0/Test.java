@@ -18,7 +18,7 @@ public class Test {
 		MakeIndex mi = new MakeIndex("../resources/montexte");
         mi.load();
         mi.process();
-		//mi.output(mi.toString());
+		mi.output(mi.toString());
 		System.out.println(mi.toString());
 	}
 
