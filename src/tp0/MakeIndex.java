@@ -62,6 +62,10 @@ public class MakeIndex extends Loader {
 		this.index=index;
 	}
 
+	
+	/** 
+	 * @return String
+	 */
 	public String toString () {
 		return index.toString();
 	}

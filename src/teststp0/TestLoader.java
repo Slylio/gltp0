@@ -17,10 +17,10 @@ public class TestLoader {
 	 * @throws IOException
 	 */
 	public static void main(String [] args) throws IOException {
-		Loader ld = new Loader("../");
+		Loader ld = new Loader("../resources/montexte");
 		// lecture
 		ld.load();
-		// �criture
+		// "criture
 		ld.output(ld.toString());
 	}
 
