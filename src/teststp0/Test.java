@@ -15,7 +15,7 @@ public class Test {
 	 * @throws IOException
 	 */
 	public static void main(String [] args) throws IOException {
-		MakeIndex mi = new MakeIndex("../resources/montexte");
+		MakeIndex mi = new MakeIndex("resources/montexte");
         mi.load();
         mi.process();
 		mi.output(mi.toString());

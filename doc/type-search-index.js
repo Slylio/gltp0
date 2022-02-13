@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tp0","l":"Entry"},{"p":"tp0","l":"Index"},{"p":"tp0","l":"Loader"},{"p":"tp0","l":"MakeIndex"},{"p":"tp0","l":"Sort"},{"p":"tp0","l":"SortedListOfInteger"},{"p":"tp0","l":"SortEntry"}]
